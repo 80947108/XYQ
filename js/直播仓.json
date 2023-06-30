@@ -1,0 +1,60 @@
+﻿//http://刘公子.hk3c.ml/直播.txt
+//那里花开http://hz752.love:63/txt/tvbs.txt
+[
+    {
+        "name": "YY轮播",
+        "url": "https://raw.iqiq.io/Ftindy/IPTV-URL/main/yylunbo.m3u&&&https://raw.iqiq.io/80947108/pic/main/pic2/YY.png"
+    },
+    {
+        "name": "虎牙轮播",
+        "url": "https://raw.iqiq.io/Ftindy/IPTV-URL/main/huyayqk.m3u&&&https://raw.iqiq.io/80947108/pic/main/pic2/虎牙.png"
+    },
+    {
+        "name": "斗鱼轮播",
+        "url": "https://raw.iqiq.io/Ftindy/IPTV-URL/main/douyuyqk.m3u&&&https://raw.iqiq.io/80947108/pic/main/pic2/斗鱼.png"
+    },
+    {
+        "name": "飞哥直播",
+        "url": "http://w.g9.pub:66/f/Xn3tO/live.txt&&&https://raw.iqiq.io/80947108/pic/main/pic2/直播.png"
+    },
+    {
+        "name": "飞哥V6",
+        "url": "http://w.g9.pub:66/f/n2JHm/sxg.txt&&&https://raw.iqiq.io/80947108/pic/main/pic2/直播.png"
+    },
+    {
+        "name": "stream港台",
+        "url": "https://www.stream-link.org/stream-link.m3u&&&https://raw.iqiq.io/80947108/pic/main/pic2/直播.png"
+    },
+    {
+        "name": "epg",
+        "url": "https://epg.pw/test_channels_all.m3u&&&https://raw.iqiq.io/80947108/pic/main/pic2/直播.png"
+    },
+    {
+        "name": "K歌MV",
+        "url": "http://w.g9.pub:66/f/lZXHX/mv.txt&&&https://raw.iqiq.io/80947108/pic/main/pic2/MV.png"
+    },
+    {
+        "name": "太极茶道",
+        "url": "https://raw.iqiq.io/taijichadao/taijichadao.github.io/main/live/live.txt&&&https://raw.iqiq.io/80947108/pic/main/pic2/直播.png"
+    },
+    {
+        "name": "那里花开",
+        "url": "http://hz752.love:63/txt/tvbs.txt&&&https://raw.iqiq.io/80947108/pic/main/pic2/直播.png"
+    },
+    {
+        "name": "小曾直播",
+        "url": "http://52bsj.vip:81/api/v3/file/get/144474/live.txt?sign=MVwH7VYPgA7ug_cj14WLD1joIw4crGm0MW_c1EchlQY%3D%3A0&&&https://raw.iqiq.io/80947108/pic/main/pic2/直播.png"
+    },
+    {
+        "name": "范明明",
+        "url": "https://live.fanmingming.com/tv/m3u/global.m3u&&&https://raw.iqiq.io/80947108/pic/main/pic2/直播.png"
+    },
+    {
+        "name": "加勒B",
+        "url": "http://lzoq.hk3c.ml/lives/加勒B.txt&&&https://raw.iqiq.io/80947108/pic/main/pic2/美女.jpg"
+    },
+    {
+        "name": "福利直播",
+        "url": "http://lzoq.hk3c.ml/lives/18TV.txt&&&https://raw.iqiq.io/80947108/pic/main/pic2/美女.jpg"
+    }
+]
