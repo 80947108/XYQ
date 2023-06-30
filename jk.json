@@ -1,39 +1,39 @@
-﻿{
-    "spider": "./小暴脾气6.jar;md5;68468d6fd4914032bb8f3ad2b375b949"，
-    "wallpaper": "http://xhww.fun:63/img.php"，
+{
+    "spider": "./小暴脾气6.jar;md5;68468d6fd4914032bb8f3ad2b375b949",
+    "wallpaper": "http://xhww.fun:63/img.php",
     "sites": [
         {
-            "key": "豆瓣"，
-            "name": "豆瓣热剧"，
-            "type": 3，
-            "api": "./js/drpy.min.js"，
-            "ext": "./js/drpy.js"，
-            "searchable": 0，
-            "quickSearch": 0，
+            "key": "豆瓣",
+            "name": "豆瓣热剧",
+            "type": 3,
+            "api": "./js/drpy.min.js",
+            "ext": "./js/drpy.js",
+            "searchable": 0,
+            "quickSearch": 0,
             "filterable": 0
-        }，
+        },
         {
-            "key": "Kunyu77"，
-            "name": "手机┃七七"，
-            "type": 3，
-            "api": "csp_Kunyu77"，
-            "playerType": 1，
-            "searchable": 1，
-            "quickSearch": 1，
+            "key": "Kunyu77",
+            "name": "手机┃七七",
+            "type": 3,
+            "api": "csp_Kunyu77",
+            "playerType": 1,
+            "searchable": 1,
+            "quickSearch": 1,
             "filterable": 1
-        }，
+        },
         {
-            "key": "直播转点播"，
-            "name": "电视┃直播"，
-            "type": 3，
-            "api": "./js/直播转点播2.js"，
+            "key": "直播转点播",
+            "name": "电视┃直播",
+            "type": 3,
+            "api": "./js/直播转点播2.js",
             "ext": "./js/直播仓.json"
-        }，
+        },
         {
-            "key": "广播迷"，
-            "name": "广播┃BPQ"，
-            "type": 3，
-            "api": "csp_XBPQ"，
+            "key": "广播迷",
+            "name": "广播┃BPQ",
+            "type": 3,
+            "api": "csp_XBPQ",
             "ext": {
                 "分类": "央视$zy#北京$bj#上海$sh#天津$tj#重庆$cq#广东$gd#四川$sc#山东$sd#江苏$js#浙江$zj#河南$henan#河北$hebei#辽宁$ln#安徽$ah#湖南$hn#湖北$hubei#福建$fj#广西$gx#山西$sxi#云南$yn#贵州$gz#西藏$xz#宁夏$nx#海南$hainan#新疆$xj#甘肃$gs#青海$qh#黑龙江$hlj#内蒙古$nmg#港澳$hk",
                 "编码": "GBK",
@@ -861,84 +861,84 @@
                 "84.200.69.80",
                 "84.200.70.40"
             ]
-        },
+        }，
         {
-            "name": "Quad9",
-            "url": "https://dns.quad9.net/dns-quer",
+            "name": "Quad9"，
+            "url": "https://dns.quad9.net/dns-quer"，
             "ips": [
-                "9.9.9.9",
+                "9.9.9.9"，
                 "149.112.112.112"
             ]
         }
-    ],
+    ]，
     "rules": [
         {
-            "name": "量子",
+            "name": "量子"，
             "hosts": [
-                "vip.lz",
+                "vip.lz"，
                 "hd.lz"
-            ],
+            ]，
             "regex": [
                 "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY"
             ]
-        },
+        }，
         {
-            "name": "非凡",
+            "name": "非凡"，
             "hosts": [
-                "vip.ffzy",
+                "vip.ffzy"，
                 "hd.ffzy"
-            ],
+            ]，
             "regex": [
                 "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY"
             ]
-        },
+        }，
         {
-            "host": "piaku.cc",
+            "host": "piaku.cc"，
             "rule": [
-                ".mp4",
-                ".m3u8",
-                "?auth_token",
+                ".mp4"，
+                ".m3u8"，
+                "?auth_token"，
                 "m3u8"
             ]
-        },
+        }，
         {
-            "host": "app.syrme.top",
+            "host": "app.syrme.top"，
             "rule": [
-                "aliyundrive.net",
-                "cn-beijing-data",
-                "?auth_token",
+                "aliyundrive.net"，
+                "cn-beijing-data"，
+                "?auth_token"，
                 "m3u8"
             ]
-        },
+        }，
         {
-            "host": "v.3412.net.cn",
+            "host": "v.3412.net.cn"，
             "rule": [
-                ".mp4",
-                "security-token=",
-                "aliyuncs.com",
+                ".mp4"，
+                "security-token="，
+                "aliyuncs.com"，
                 "m3u8"
             ]
-        },
+        }，
         {
-            "host": "jx.jsonplayer.com",
+            "host": "jx.jsonplayer.com"，
             "rule": [
-                ".mp4",
-                ".m3u8",
-                "?vkey=",
-                "110.42.2.115",
+                ".mp4"，
+                ".m3u8"，
+                "?vkey="，
+                "110.42.2.115"，
                 "m3u8"
             ]
-        },
+        }，
         {
-            "host": "movie.bulei.cc",
+            "host": "movie.bulei.cc"，
             "rule": [
-                ".mp4",
-                ".m3u8",
-                "?vkey=",
-                "1ftn_handler",
-                "http://1.71.18.153",
-                "mu.dcd1.cn",
-                "aliyundrive.net",
+                ".mp4"，
+                ".m3u8"，
+                "?vkey="，
+                "1ftn_handler"，
+                "http://1.71.18.153"，
+                "mu.dcd1.cn"，
+                "aliyundrive.net"，
                 "m3u8"
             ]
         },
@@ -950,128 +950,128 @@
                 "https://p3-sign.douyinpic.com",
                 "m3u8"
             ]
-        },
+        }，
         {
-            "host": "brovod.com",
+            "host": "brovod.com"，
             "rule": [
                 ".m3u8"
             ]
-        },
+        }，
         {
-            "host": "https://www1.gntv.live",
+            "host": "https://www1.gntv.live"，
             "rule": [
-                ".m3u8",
-                "m3u8?",
+                ".m3u8"，
+                "m3u8?"，
                 "4k.clyjx.cn:97"
             ]
-        },
+        }，
         {
-            "host": "renren.pro",
+            "host": "renren.pro"，
             "rule": [
                 ".m3u8"
             ]
-        },
+        }，
         {
-            "host": "https://v.3412.net.cn",
+            "host": "https://v.3412.net.cn"，
             "rule": [
-                ".m3u8",
-                ".m3u8?",
+                ".m3u8"，
+                ".m3u8?"，
                 ".mp4"
             ]
-        },
+        }，
         {
-            "host": "v.t-ui.cn",
+            "host": "v.t-ui.cn"，
             "rule": [
-                ".m3u8",
-                "m3u8?",
+                ".m3u8"，
+                "m3u8?"，
                 "vip.ffzy-play4.com"
             ]
-        },
+        }，
         {
-            "host": "cj.ffzyapi.com",
+            "host": "cj.ffzyapi.com"，
             "rule": [
-                ".m3u8",
+                ".m3u8"，
                 "m3u8?"
             ]
-        },
+        }，
         {
-            "host": "siguyy.com",
+            "host": "siguyy.com"，
             "rule": [
-                "mp4",
-                ".m3u8",
-                "https://ccp-bj29-video-preview.oss-enet.aliyuncs.com",
+                "mp4"，
+                ".m3u8"，
+                "https://ccp-bj29-video-preview.oss-enet.aliyuncs.com"，
                 "aliyuncs.com"
             ]
-        },
+        }，
         {
-            "name": "火山嗅探",
+            "name": "火山嗅探"，
             "hosts": [
                 "huoshan.com"
-            ],
+            ]，
             "regex": [
                 "item_id="
             ]
-        },
+        }，
         {
-            "name": "抖音嗅探",
+            "name": "抖音嗅探"，
             "hosts": [
                 "douyin.com"
-            ],
+            ]，
             "regex": [
                 "is_play_url="
             ]
         }
-    ],
+    ]，
     "lives": [
         {
-            "name": "live2",
-            "type": 0,
-            "url": "http://w.g9.pub:66/f/Xn3tO/live.txt",
-            "playerType": 1,
-            "ua": "okhttp/3.12.13",
-            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+            "name": "live2"，
+            "type": 0，
+            "url": "http://w.g9.pub:66/f/Xn3tO/live.txt"，
+            "playerType": 1，
+            "ua": "okhttp/3.12.13"，
+            "epg": "http://epg.112114.xyz/?ch={name}&date={date}"，
             "logo": "https://epg.112114.xyz/logo/{name}.png"
         }
-    ],
+    ]，
     "flags": [
-        "youku",
-        "优酷",
-        "优 酷",
-        "优酷视频",
-        "qq",
-        "腾讯",
-        "腾 讯",
-        "腾讯视频",
-        "iqiyi",
-        "qiyi",
-        "奇艺",
-        "爱奇艺",
-        "爱 奇 艺",
-        "m1905",
-        "xigua",
-        "letv",
-        "leshi",
-        "乐视",
-        "乐 视",
-        "sohu",
-        "搜狐",
-        "搜 狐",
-        "搜狐视频",
-        "tudou",
-        "pptv",
-        "mgtv",
-        "芒果",
-        "imgo",
-        "芒果TV",
-        "芒 果 T V",
-        "bilibili",
-        "哔 哩",
+        "youku"，
+        "优酷"，
+        "优 酷"，
+        "优酷视频"，
+        "qq"，
+        "腾讯"，
+        "腾 讯"，
+        "腾讯视频"，
+        "iqiyi"，
+        "qiyi"，
+        "奇艺"，
+        "爱奇艺"，
+        "爱 奇 艺"，
+        "m1905"，
+        "xigua"，
+        "letv"，
+        "leshi"，
+        "乐视"，
+        "乐 视"，
+        "sohu"，
+        "搜狐"，
+        "搜 狐"，
+        "搜狐视频"，
+        "tudou"，
+        "pptv"，
+        "mgtv"，
+        "芒果"，
+        "imgo"，
+        "芒果TV"，
+        "芒 果 T V"，
+        "bilibili"，
+        "哔 哩"，
         "哔 哩 哔 哩"
-    ],
+    ]，
     "ads": [
-        "wan.51img1.com",
-        "iqiyi.hbuioo.com",
-        "vip.ffzyad.com",
+        "wan.51img1.com"，
+        "iqiyi.hbuioo.com"，
+        "vip.ffzyad.com"，
         "https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd"
     ]
 }
