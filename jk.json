@@ -1,39 +1,39 @@
 ﻿{
-    "spider": "./小暴脾气6.jar;md5;68468d6fd4914032bb8f3ad2b375b949",
-    "wallpaper": "http://xhww.fun:63/img.php",
+    "spider": "./小暴脾气6.jar;md5;68468d6fd4914032bb8f3ad2b375b949"，
+    "wallpaper": "http://xhww.fun:63/img.php"，
     "sites": [
         {
-            "key": "豆瓣",
-            "name": "豆瓣热剧",
-            "type": 3,
-            "api": "./js/drpy.min.js",
-            "ext": "./js/drpy.js",
-            "searchable": 0,
-            "quickSearch": 0,
+            "key": "豆瓣"，
+            "name": "豆瓣热剧"，
+            "type": 3，
+            "api": "./js/drpy.min.js"，
+            "ext": "./js/drpy.js"，
+            "searchable": 0，
+            "quickSearch": 0，
             "filterable": 0
-        },
+        }，
         {
-            "key": "Kunyu77",
-            "name": "手机┃七七",
-            "type": 3,
-            "api": "csp_Kunyu77",
-            "playerType": 1,
-            "searchable": 1,
-            "quickSearch": 1,
+            "key": "Kunyu77"，
+            "name": "手机┃七七"，
+            "type": 3，
+            "api": "csp_Kunyu77"，
+            "playerType": 1，
+            "searchable": 1，
+            "quickSearch": 1，
             "filterable": 1
-        },
+        }，
         {
-            "key": "直播转点播",
-            "name": "电视┃直播",
-            "type": 3,
-            "api": "./js/直播转点播2.js",
+            "key": "直播转点播"，
+            "name": "电视┃直播"，
+            "type": 3，
+            "api": "./js/直播转点播2.js"，
             "ext": "./js/直播仓.json"
-        },
+        }，
         {
-            "key": "广播迷",
-            "name": "广播┃BPQ",
-            "type": 3,
-            "api": "csp_XBPQ",
+            "key": "广播迷"，
+            "name": "广播┃BPQ"，
+            "type": 3，
+            "api": "csp_XBPQ"，
             "ext": {
                 "分类": "央视$zy#北京$bj#上海$sh#天津$tj#重庆$cq#广东$gd#四川$sc#山东$sd#江苏$js#浙江$zj#河南$henan#河北$hebei#辽宁$ln#安徽$ah#湖南$hn#湖北$hubei#福建$fj#广西$gx#山西$sxi#云南$yn#贵州$gz#西藏$xz#宁夏$nx#海南$hainan#新疆$xj#甘肃$gs#青海$qh#黑龙江$hlj#内蒙古$nmg#港澳$hk",
                 "编码": "GBK",
