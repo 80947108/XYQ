@@ -1,4 +1,4 @@
-
+20230920
 
 香雅情XYQ规则（支持海阔视界推送）
 https://ghproxy.com/https://raw.githubusercontent.com/80947108/XYQ/XYQTVBox.json
